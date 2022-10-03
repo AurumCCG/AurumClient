@@ -1,0 +1,7 @@
+# Godot import assets
+.import/
+*.import
+
+# Godot scene / project files
+*.tres
+*.godot
