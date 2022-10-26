@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="Card Game"
-config/icon="res://icon.png"
+run/main_scene="res://scenes/main menu/Scene.tscn"
 
 [gui]
 
